@@ -1,2 +1,2 @@
-# award20.github.io
+# haxuslate.github.io
 Haxuslate creator website and Minecraft mod projects.
